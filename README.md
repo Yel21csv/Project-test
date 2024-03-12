@@ -11,6 +11,8 @@ Repositório de testes para aprendizagem do uso desta plataforma, com base nas a
 | Aulas | Resumos |
 |-------|---------|
 | Gravando alterações no repositório Local | [Resumos]() |
+| Aula 01 | [Resumo]() |
+| Aula 02 | [Resumo]() |
 
 ```
 git init
